@@ -1,0 +1,7 @@
+[Unit]
+Description=Ubuntu config backup
+
+[Service]
+Type=oneshot
+ExecStart=/home/USERNAME/ubuntu-setup/scripts/backup.sh
+

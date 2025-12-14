@@ -1,0 +1,16 @@
+android-studio
+bare
+code
+core20
+core22
+firefox
+firmware-updater
+gnome-3-38-2004
+gnome-42-2204
+gtk-common-themes
+logisim-evolution
+snap-store
+snapd
+snapd-desktop-integration
+spotify
+thunderbird
