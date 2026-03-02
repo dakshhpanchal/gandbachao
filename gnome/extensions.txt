@@ -1,3 +1,5 @@
+hidetopbar@mathieu.bidon.ca
+just-perfection-desktop@just-perfection
 ding@rastersoft.com
 tiling-assistant@ubuntu.com
 ubuntu-appindicators@ubuntu.com

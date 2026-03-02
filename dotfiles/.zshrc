@@ -74,15 +74,15 @@ _comp_options+=(globdots)
 # ALIASES AND FUNCTIONS (Must be after plugins are loaded, as they are fast)
 
 # Aliases
-alias ls='ls --color'
-alias ll='ls -la'
+alias ls='ls --color --group-directories-first -v'
+alias ll='ls -la --color --group-directories-first -v'
 alias c='clear'
 alias vim='nvim'
 alias vs='code'
 alias python='python3'
 alias gk='pkill -9 gzserver ; pkill -9 gzclient'
 alias ra='ranger'
-
+alias sr='source /opt/ros/jazzy/setup.zsh'
 # Function to compile C++ files
 gpp() {
     out="${1%.*}"
@@ -104,5 +104,4 @@ precmd() { print -Pn "\e]0;%~\a" }
 # zprofexport PATH="$PATH:$HOME/development/flutter/bin"
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 export PATH=$JAVA_HOME/bin:$PATH
-#source /opt/ros/jazzy/setup.zsh
-#source ~/probes/robotic_arm_ws/install/setup.zsh
+export GZ_SIM_SYSTEM_PLUGIN_PATH=$GZ_SIM_SYSTEM_PLUGIN_PATH:/opt/ros/jazzy/lib
