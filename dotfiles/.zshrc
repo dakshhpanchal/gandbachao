@@ -83,6 +83,7 @@ alias python='python3'
 alias gk='pkill -9 gzserver ; pkill -9 gzclient'
 alias ra='ranger'
 alias sr='source /opt/ros/jazzy/setup.zsh'
+alias build='colcon build && source /opt/ros/jazzy/setup.zsh && source install/setup.zsh && ros2 launch bringup bringup_sim.launch.py'
 # Function to compile C++ files
 gpp() {
     out="${1%.*}"
