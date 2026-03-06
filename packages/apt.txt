@@ -18,6 +18,7 @@ android-liblog:amd64
 android-libsparse:amd64
 android-libziparchive:amd64
 android-sdk-platform-tools-common
+ani-cli
 apg
 apparmor
 apport
@@ -32,6 +33,7 @@ apt-transport-https
 apt-utils
 aptdaemon
 aptdaemon-data
+aria2
 arp-scan
 aspell
 aspell-en
@@ -79,6 +81,7 @@ ca-certificates
 ca-certificates-java
 ca-certificates-mono
 caca-utils
+cargo
 catch2
 catdoc
 chafa
@@ -229,12 +232,14 @@ fuse
 fuse3
 fwupd
 fwupd-signed
+fzf
 g++
 g++-13
 g++-13-x86-64-linux-gnu
 g++-x86-64-linux-gnu
 gamemode
 gamemode-daemon
+gawk
 gcc
 gcc-13
 gcc-13-base:amd64
@@ -570,6 +575,7 @@ libaprutil1t64:amd64
 libapt-pkg6.0t64:amd64
 libarchive13t64:amd64
 libargon2-1:amd64
+libaria2-0:amd64
 libaribb24-0t64:amd64
 libarmadillo-dev
 libarmadillo12
@@ -1092,6 +1098,7 @@ libgif-dev:amd64
 libgif7:amd64
 libgirepository-1.0-1:amd64
 libgirepository-2.0-0:amd64
+libgit2-1.7:amd64
 libgjs0g:amd64
 libgl-dev:amd64
 libgl1:amd64
@@ -1270,6 +1277,7 @@ libhttp-daemon-perl
 libhttp-date-perl
 libhttp-message-perl
 libhttp-negotiate-perl
+libhttp-parser2.9:amd64
 libhunspell-1.7-0:amd64
 libhwasan0:amd64
 libhwloc-dev:amd64
@@ -2299,6 +2307,7 @@ libsigc++-2.0-0v5:amd64
 libsigc++-3.0-0:amd64
 libsignon-plugins-common1:amd64
 libsignon-qt5-1:amd64
+libsigsegv2:amd64
 libsixel-bin
 libsixel1:amd64
 libslang2:amd64
@@ -2361,6 +2370,8 @@ libsss-certmap0
 libsss-idmap0
 libsss-nss-idmap0
 libstartup-notification0:amd64
+libstd-rust-1.75:amd64
+libstd-rust-dev:amd64
 libstdc++-13-dev:amd64
 libstdc++6:amd64
 libstdc++6:i386
@@ -2600,6 +2611,7 @@ libxcb-damage0:amd64
 libxcb-dri2-0:amd64
 libxcb-dri3-0:amd64
 libxcb-dri3-0:i386
+libxcb-ewmh2:amd64
 libxcb-glx0:amd64
 libxcb-glx0:i386
 libxcb-icccm4:amd64
@@ -2810,6 +2822,7 @@ mount
 mousetweaks
 mpi-default-bin
 mpi-default-dev
+mpv
 msbuild
 msbuild-libhostfxr
 msbuild-sdkresolver
@@ -3682,6 +3695,7 @@ rhythmbox
 rhythmbox-data
 rhythmbox-plugin-alternative-toolbar
 rhythmbox-plugins
+rofi
 ros-build-essential
 ros-dev-tools
 ros-jazzy-ackermann-msgs
@@ -4160,6 +4174,7 @@ ruby-webrick
 ruby-xmlrpc
 ruby3.2
 rubygems-integration
+rustc
 rygel
 samba-libs:amd64
 sane-airscan
@@ -4256,6 +4271,7 @@ totem-common
 totem-plugins
 tpm-udev
 trace-cmd
+traceroute
 tracker
 tracker-extract
 tracker-miner-fs
