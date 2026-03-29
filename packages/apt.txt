@@ -19,6 +19,7 @@ android-libsparse:amd64
 android-libziparchive:amd64
 android-sdk-platform-tools-common
 ani-cli
+antigravity
 apg
 apparmor
 apport
