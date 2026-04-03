@@ -4241,6 +4241,8 @@ systemd-sysv
 systemd-timesyncd
 systemsettings
 sysvinit-utils
+tailscale
+tailscale-archive-keyring
 tango-icon-theme
 tar
 tcl
@@ -4441,6 +4443,7 @@ yt-dlp
 yudit-common
 zenity
 zenity-common
+zerotier-one
 zip
 zlib1g:amd64
 zlib1g:i386

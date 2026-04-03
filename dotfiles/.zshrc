@@ -17,10 +17,13 @@ setopt appendhistory sharehistory hist_ignore_space hist_ignore_all_dups hist_sa
 export PATH=$HOME/.local/bin:$PATH
 export EDITOR="code --wait --reuse-window"
 export ROS_DOMAIN_ID=0
-export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
 export PATH=$JAVA_HOME/bin:$PATH
 export GZ_SIM_SYSTEM_PLUGIN_PATH=$GZ_SIM_SYSTEM_PLUGIN_PATH:/opt/ros/jazzy/lib
 export GZ_SIM_RESOURCE_PATH=/home/soap/probes/mercury/install/simulation/share/simulation/models
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
+export PATH=$ANDROID_HOME/platform-tools:$PATH
 
 # options
 setopt no_beep
