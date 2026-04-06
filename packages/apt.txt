@@ -2857,6 +2857,8 @@ neovim
 neovim-runtime
 net-tools
 netbase
+netbird
+netbird-ui
 netcat-openbsd
 netpbm
 netplan-generator
