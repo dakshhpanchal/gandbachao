@@ -24,7 +24,6 @@ export GZ_SIM_RESOURCE_PATH=/home/soap/probes/mercury/install/simulation/share/s
 export ANDROID_HOME=$HOME/Android/Sdk
 export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
 export PATH=$ANDROID_HOME/platform-tools:$PATH
-
 # options
 setopt no_beep
 fpath=(~/.zsh/completions $fpath)
