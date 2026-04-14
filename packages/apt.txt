@@ -67,6 +67,7 @@ bluez-cups
 bluez-hcidump
 bluez-obexd
 bolt
+brasero-common
 brltty
 brz
 bsdextrautils
@@ -85,6 +86,7 @@ caca-utils
 cargo
 catch2
 catdoc
+cdrdao
 chafa
 chrome-gnome-shell
 clang
@@ -418,6 +420,8 @@ gstreamer1.0-plugins-ugly:amd64
 gstreamer1.0-tools
 gstreamer1.0-vaapi:amd64
 gstreamer1.0-x:amd64
+gthumb
+gthumb-data
 gtk-update-icon-cache
 gtk2-engines-murrine:amd64
 gtk2-engines-pixbuf:amd64
@@ -766,6 +770,7 @@ libboost-wave1.83.0:amd64
 libboost1.83-dev:amd64
 libboost1.83-tools-dev
 libbpf1:amd64
+libbrasero-media3-1:amd64
 libbrlapi0.8:amd64
 libbrotli-dev:amd64
 libbrotli1:amd64
@@ -2015,6 +2020,7 @@ libpcrecpp0v5:amd64
 libpcsclite1:amd64
 libpeas-1.0-0:amd64
 libpeas-common
+libperl4-corelibs-perl
 libperl5.38t64:amd64
 libpfm4:amd64
 libpgm-5.3-0t64:amd64
