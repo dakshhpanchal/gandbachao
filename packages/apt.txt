@@ -4351,6 +4351,7 @@ vtk9
 w3m
 w3m-img
 wamerican
+wavemon
 wayland-protocols
 wbritish
 webp-pixbuf-loader:amd64
