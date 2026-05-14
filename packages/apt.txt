@@ -199,6 +199,7 @@ fastboot
 fdisk
 feh
 ffmpeg
+fig2dev
 file
 file-roller
 findutils
@@ -492,6 +493,7 @@ init-system-helpers
 initramfs-tools
 initramfs-tools-bin
 initramfs-tools-core
+inkscape
 inputattach
 install-info
 intel-media-va-driver:amd64
@@ -544,6 +546,7 @@ language-selector-gnome
 laptop-detect
 ldap-utils
 less
+lib2geom1.2.0t64:amd64
 lib32gcc-s1
 lib32stdc++6
 liba52-0.7.4:amd64
@@ -1192,6 +1195,8 @@ libgs10:amd64
 libgs10-common
 libgsf-1-114:amd64
 libgsf-1-common
+libgsl27:amd64
+libgslcblas0:amd64
 libgsm1:amd64
 libgsound0t64:amd64
 libgspell-1-2:amd64
@@ -1572,6 +1577,7 @@ libm17n-0:amd64
 libmad0:amd64
 libmagic-mgc
 libmagic1t64:amd64
+libmagick++-6.q16-9t64:amd64
 libmagickcore-6.q16-7-extra:amd64
 libmagickcore-6.q16-7t64:amd64
 libmagickwand-6.q16-7t64:amd64
@@ -2063,6 +2069,7 @@ libportal1:amd64
 libportmidi0:amd64
 libpostproc-dev:amd64
 libpostproc57:amd64
+libpotrace0:amd64
 libppd2:amd64
 libppd2-common
 libpq-dev
@@ -2561,6 +2568,7 @@ libwireshark17t64:amd64
 libwiretap14t64:amd64
 libwmf-0.2-7:amd64
 libwmf-0.2-7-gtk:amd64
+libwmf-bin
 libwmf-dev
 libwmf0.2-7-gtk:amd64
 libwmflite-0.2-7:amd64
@@ -3561,6 +3569,7 @@ python3-rospkg-modules
 python3-ruamel.yaml
 python3-ruamel.yaml.clib:amd64
 python3-scipy
+python3-scour
 python3-serial
 python3-setuptools
 python3-setuptools-whl
