@@ -268,6 +268,7 @@ gfortran
 gfortran-13
 gfortran-13-x86-64-linux-gnu
 gfortran-x86-64-linux-gnu
+gh
 ghostscript
 gir1.2-accountsservice-1.0:amd64
 gir1.2-adw-1:amd64
