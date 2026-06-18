@@ -4567,6 +4567,7 @@ vtk9
 w3m
 w3m-img
 wamerican
+watchman
 wavemon
 wayland-protocols
 wbritish

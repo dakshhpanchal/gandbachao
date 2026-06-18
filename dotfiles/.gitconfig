@@ -2,4 +2,7 @@
 	email = dakshpanchal08@gmail.com
 	name = dakshhpanchal
 [credential]
-	helper = store
+	helper = store --file ~/.git-credentials
+
+[includeIf "gitdir:/home/soap/ugv/"]
+    path = ~/.gitconfig-ugv
