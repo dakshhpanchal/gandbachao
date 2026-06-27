@@ -4469,6 +4469,7 @@ tk8.6
 tk8.6-blt2.5
 tk8.6-dev:amd64
 tlauncher-linux-installer
+tmux
 tnftp
 toilet
 toilet-fonts
