@@ -81,3 +81,7 @@ bindkey '^n' history-search-forward
 
 # terminal title
 precmd() { print -Pn "\e]0;%~\a" }
+
+
+# Added by Antigravity CLI installer
+export PATH="/home/soap/.local/bin:$PATH"

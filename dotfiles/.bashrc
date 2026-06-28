@@ -117,3 +117,7 @@ if ! shopt -oq posix; then
 fi
 . "$HOME/.cargo/env"
 source "$HOME/.cargo/env"
+
+
+# Added by Antigravity CLI installer
+export PATH="/home/soap/.local/bin:$PATH"
